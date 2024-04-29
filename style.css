@@ -1,1 +1,24 @@
-/* Start coding here */
+.container {
+  width: 100vw;
+  height: 100vh;
+  background-color: lightgrey;
+  padding: 50px;
+}
+
+.box-1 {
+  width: 100vw;
+  height: 25vh;
+  background-color: orange;
+}
+
+.box-2 {
+  width: 100vw;
+  height: 25vh;
+  background-color: khaki;
+}
+
+.box-3 {
+  width: 100vw;
+  height: 50vh;
+  background-color: cornflowerblue;
+}
